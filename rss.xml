@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sveglio]]></title>
+        <description><![CDATA[sveglio]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 24 Mar 2016 10:47:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Private Pilot Training]]></title>
+            <description><![CDATA[<article><h1>Private Pilot Training</h1><p>Next monday, I'm up for the first flight with the instructor</p></article>]]></description>
+            <link>undefinedprivate-pilot-training/index.html</link>
+            <guid isPermaLink="false">8385c4d9-eda7-47aa-9824-a7f61a344d31</guid>
+            <pubDate>Thu, 24 Mar 2016 10:47:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
